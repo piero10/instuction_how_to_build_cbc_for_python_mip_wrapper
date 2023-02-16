@@ -1,5 +1,5 @@
 # Eng
-This instruction describes how to build dll's of [cbc решателя](https://github.com/coin-or/Cbc) solver for [python-mip](https://www.python-mip.com/) wrapper
+This instruction describes how to build dll's of [cbc](https://github.com/coin-or/Cbc) solver for [python-mip](https://www.python-mip.com/) wrapper
 
 ## Why you might need it
 Package [python-mip](https://www.python-mip.com/) supplied only with a specific set of cbc dll's. If you whant to use alternative version of cbc, you have to build dll's yourself
